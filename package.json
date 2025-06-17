@@ -28,17 +28,16 @@
   "bugs": {
     "url": "https://github.com/auggie2lbcf/podcast-rss-generator/issues"
   },
-  "homepage": "https://github.com/auggie2lbcf/podcast-rss-generator#readme",
+  "homepage": "https://github.com/auggie2lbcf/podcast-rss-generator",
   "engines": {
     "node": ">= 12.0.0"
   },
   "files": [
     "src/",
-    "README.md",
     "LICENSE"
   ],
   "devDependencies": {
     "cross-env": "^7.0.3",
     "jest": "^30.0.0"
-  },
-
+  }
+}
